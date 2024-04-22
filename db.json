@@ -5,7 +5,7 @@
     "phone": "100",
     "name": "Kavin Fernando",
     "Current_mortgage": "100000",
-    "Current_Credit card": "1000",
+    "Current_Credit_card": "1000",
     "last_digits": "1004"
   },
   {
@@ -14,7 +14,7 @@
     "phone": "200",
     "name": "Erica Alva",
     "Current_mortgage": "0",
-    "Current_Credit card": "5000",
+    "Current_Credit_card": "5000",
     "last_digits": "1225"
   },
   {
@@ -23,7 +23,7 @@
     "phone": "300",
     "name": "Daisy Alva",
     "Current_mortgage": "500000",
-    "Current_Credit card": "0",
+    "Current_Credit_card": "0",
     "last_digits": "0604"
   }
 ]
